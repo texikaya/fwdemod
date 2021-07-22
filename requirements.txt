@@ -1,0 +1,8 @@
+numpy
+pyrtlsdr
+matplotlib
+crccheck
+nptyping
+requests
+pyserial
+serial
